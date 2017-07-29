@@ -6,7 +6,7 @@ Hi there! I am currently student of Makers Academy and an ex online poker player
 
 I'm interested in the creation and exploration of ideas. As a graduate of the London College of Communication in Interactive Design, I have always been interested in how people and technology interact within different environments.
 
-I absolutely love the process of learning. "Enjoy the Process Towards Mastery" is one of my life mottos, inspired from Daniel Pink's amazing book "Drive". There I have learned to not be too attached to the results of success or failure to keep striving for self improvement.
+I absolutely love the process of learning. "Enjoy the Process Towards Mastery" is one of my life mottos, inspired from Daniel Pink's amazing book ["Drive"](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?ie=UTF8&qid=1501344243&sr=8-1&keywords=daniel+pink+drive). There I have learned to not be too attached to the results of success or failure to keep striving for self improvement.
 
 ## SKILLS
 
@@ -26,7 +26,9 @@ At the end of 2016, I gave up online poker and decided to pursue the goal of lea
 
 ### Creativity
 
-A project I worked as a team to  was to debunk the idea that advertising has to spammy in order to be successful. We created a campaign called "Off The Wall", of which various items were left around south London with our branding and a link to our website that explained what we were trying to achieve. This ended in an exhibition event of our work.
+A project I worked on was to debunk the idea that advertising has to spammy in order to be successful. We created a campaign called "Off The Wall", of which various items were left around south London with our branding and a link to our website that explained what we were trying to achieve. This ended in an exhibition event of our work.
+
+Here is an example of one of the stunts, the [balloon release](https://www.youtube.com/watch?v=Ry-25_HDpWs).
 
 I led and organized the team into smaller groups according to the item type and our scheduling. The result was that we delivered a website that was documenting in realtime that advertising can be memorable and personal.
 
@@ -73,4 +75,5 @@ A coaching website in teaching poker for profit sharing. My duties included coac
 ## INTERESTS
 - [Blogging](https://thep-log.blogspot.co.uk/) about my travels, ideas and interests.
 - Breakdancing. Creativity through dance.
+- Tennis with the older brother!
 - Tech meet ups and collaborating on new self initiated projects.
