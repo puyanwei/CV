@@ -16,7 +16,7 @@ The fast pace world of online poker demanded a lot of quick efficient decision m
 
 Offline study helped me with improving on-the-fly equity analysis and mathematical calculations as well as adjusting to opponent tendencies according to the data collected, allowing myself to implement the most efficient strategy.
 
-### Commitment
+### Commitment and Initiative
 
 I managed to teach and sustain myself running my own business in online poker.
 
@@ -24,7 +24,7 @@ Soon I was able to work with another partner in developing website where we woul
 
 At the end of 2016, I gave up online poker and decided to pursue the goal of learning to code. This was a simple transition for myself due to my experience with scheduling and studying. Within 4 months I had learned Java, Javascript, completed some courses on udacity and freecodecamp, and built some basic games. Commitment is not an issue with me when I know what I want.
 
-### Creativity
+### Creativity and Teamwork
 
 A project I worked on was to debunk the idea that advertising has to spammy in order to be successful. We created a campaign called "Off The Wall", of which various items were left around south London with our branding and a link to our website that explained what we were trying to achieve. This ended in an exhibition event of our work.
 
