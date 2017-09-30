@@ -6,7 +6,7 @@ Hi there! I am currently student of Makers Academy and an ex online poker player
 
 I'm interested in the creation and exploration of ideas. As a graduate of the London College of Communication in Interactive Design, I have always been interested in how people and technology interact within different environments.
 
-I absolutely love the process of learning. "Enjoy the Process Towards Mastery" is one of my life mottos, inspired from Daniel Pink's amazing book ["Drive"](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?ie=UTF8&qid=1501344243&sr=8-1&keywords=daniel+pink+drive). There I have learned to not be too attached to the results of success or failure to keep striving for self improvement.
+I absolutely love the process of learning. "Enjoy the Process Towards Mastery" is one of my life mottos, inspired from Daniel Pink's amazing book [Drive](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?ie=UTF8&qid=1501344243&sr=8-1&keywords=daniel+pink+drive). There I have learned to not be too attached to the results of success or failure to keep striving for self improvement.
 
 ## SKILLS
 
@@ -80,5 +80,5 @@ A coaching website in teaching poker for profit sharing. My duties included coac
 ## INTERESTS
 - [Blogging](https://thep-log.blogspot.co.uk/) about my travels, ideas and interests.
 - Self initiated coding projects.
-- Breakdancing. Creativity through dance.
+- Breakdancing. [Creativity](https://youtu.be/5c1s1Sqznq8) through dance.
 - Improving my cooking and eating great food!
