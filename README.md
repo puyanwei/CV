@@ -51,7 +51,7 @@ Project | Description | Technologies | Blog Post
 ------- | ----------- | ------------ | ------
 [God of Cookery Takeaway](https://github.com/pyan83/takeaway-challenge) | A Godlike takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby on Rails | [Link](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
 [Dr PJ's Air Bnb](https://github.com/pyan83/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Link](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
-[Pokeball Run](https://github.com/pyan83/pokeball) | A gyroscope movement iPhone game with Pokemon| XCode, Swift 4, and XCTest | TBA
+[Pokeball Run](https://github.com/pyan83/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode, Swift 4, and XCTest | TBA
 
 
 **University of the Arts, London College of Communication (2004 to 2008)**
