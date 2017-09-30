@@ -1,6 +1,6 @@
 # Puyan Wei
 
-[Skills](#skills) | [Projects](#projects) | [Education](#eduction) | [Experience](#experience) | [Interests](#interests) | [Blog](https://thep-log.blogspot.co.uk/)
+[Skills](#skills) | [Projects](#projects) | [Education](#eduction) | [Work Experience](#experience) | [Interests](#interests) | [Blog](https://thep-log.blogspot.co.uk/)
 
 Hi there! I am currently student of Makers Academy and an ex online poker player who gave it all up to pursue an amazing career of a developer.
 
@@ -14,7 +14,7 @@ I absolutely love the process of learning. "Enjoy the Process Towards Mastery" i
 
 The fast pace world of online poker demanded a lot of quick efficient decision making skills whilst under constant pressure. This is ramped up by playing multiple tables at the same time simultaneously, usually up to 18 in order to increase my hourly.
 
-Offline study helped me with improving on-the-fly equity analysis and mathematical calculations as well as adjusting to opponent tendencies according to the data collected, allowing myself to implement the most efficient strategy.
+Offline study helped me with improving on the fly equity analysis and mathematical calculations as well as adjusting to opponent tendencies according to the data collected, allowing myself to implement the most efficient strategy.
 
 ### Commitment and Initiative
 
@@ -46,8 +46,13 @@ My [blog](https://thep-log.blogspot.co.uk/) has 90,000 views at the moment and I
 - Ruby, Rails, JavaScript, Java
 - Rspec
 
-#### PROJECTS
-- Makers Academy!
+## PROJECTS
+Project | Description | Technologies | Blog Post
+------- | ----------- | ------------ | ------
+[God of Cookery Takeaway](https://github.com/pyan83/takeaway-challenge) | A Godlike takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby on Rails | [Link](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
+[Dr PJ's Air Bnb](https://github.com/pyan83/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Link](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
+[Pokeball Run](https://github.com/pyan83/pokeball) | A gyroscope movement iPhone game with Pokemon| XCode, Swift 4, and XCTest | TBA
+
 
 **University of the Arts, London College of Communication (2004 to 2008)**
 BA Hons Graphic, Media and Design - Interactive Design
@@ -59,12 +64,12 @@ BA Hons Graphic, Media and Design - Interactive Design
 Art and Design Foundation Diploma  
 
 
-## EXPERIENCE
+## WORK EXPERIENCE
 
 **Professional Poker Player (2010 - 2016)**
 
 Self-Employed Online Poker Professional
-Poker is a decision-making, skill-based (person vs. person) strategy game entailing equity analysis and mathematical calculations.
+Poker is a decision making, skill based (person vs person) strategy game entailing equity analysis and mathematical calculations.
 
 **Sit and Go Protege (2011 - 2013)**
 
@@ -74,6 +79,6 @@ A coaching website in teaching poker for profit sharing. My duties included coac
 
 ## INTERESTS
 - [Blogging](https://thep-log.blogspot.co.uk/) about my travels, ideas and interests.
+- Self initiated coding projects.
 - Breakdancing. Creativity through dance.
-- Tennis with the older brother!
-- Tech meet ups and collaborating on new self initiated projects.
+- Improving my cooking and eating great food!
