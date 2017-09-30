@@ -42,9 +42,10 @@ My [blog](https://thep-log.blogspot.co.uk/) has 90,000 views at the moment and I
 - Curiosity and Passion for Code
 - Independent Learner and Problem-Solver
 - Object Orientated Programming, TDD
-- Software Craftsmanship
-- Ruby, Rails, JavaScript, Java
-- Rspec
+- Pair Programming
+- Agile Values and Principles
+- Ruby, Rails, JavaScript
+- Rspec, Jasmine, Cabybara, Zombie JS, Mocha Chai
 
 ## PROJECTS
 Project | Description | Technologies | Blog Post
