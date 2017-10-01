@@ -81,5 +81,6 @@ A coaching website in teaching poker for profit sharing. My duties included coac
 ## INTERESTS
 - [Blogging](https://thep-log.blogspot.co.uk/) about my travels, ideas and interests.
 - Self initiated coding projects.
+- I love comedy, going to gigs and literally having a laugh!
 - Breakdancing. [Creativity](https://youtu.be/5c1s1Sqznq8) through dance.
-- Improving my cooking and eating great food!
+- A passion for cooking and eating great food!
