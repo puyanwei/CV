@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#eduction) | [Work Experience](#experience) | [Interests](#interests) | [Blog](https://thep-log.blogspot.co.uk/)
 
-Hi there! I am currently student of Makers Academy and an ex online poker player who gave it all up to pursue an amazing career of a developer.
+Hi there! I am currently student of Makers Academy and an ex online poker player who gave it all up to pursue an amazing career of a developer. I am looking for work as a Junior Developer.
 
 I'm interested in the creation and exploration of ideas. As a graduate of the London College of Communication in Interactive Design, I have always been interested in how people and technology interact within different environments.
 
