@@ -32,7 +32,7 @@ Here is an example of one of the stunts, the [balloon release](https://www.youtu
 
 I led and organized the team into smaller groups according to the item type and our scheduling. The result was that we delivered a website that was documenting in realtime that advertising can be memorable and personal.
 
-My [blog](https://thep-log.blogspot.co.uk/) has 90,000 views at the moment and I recently transitioned it from talking about poker to coding. During my successes in poker I chose to travel, exploring Asia mostly. My mentality is to make sure that the topics are accessible, understandable and fun to my audience regardless if they have advanced knowledge about it. I aimed to get more people interested in poker this way, and I want to do the same thing with coding.
+My [blog](https://thep-log.blogspot.co.uk/) has almost 90,000 views at the moment and I recently transitioned it from talking about poker to coding. During my successes in poker I chose to travel, exploring Asia mostly. My mentality is to make sure that the topics are accessible, understandable and fun to my audience regardless if they have advanced knowledge about it. I aimed to get more people interested in poker this way, and I want to do the same thing with coding.
 
 
 ## EDUCATION
