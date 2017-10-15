@@ -1,12 +1,21 @@
 # Puyan Wei
 
-[Skills](#skills) | [Projects](#projects) | [Education](#eduction) | [Work Experience](#experience) | [Interests](#interests) | [Blog](https://thep-log.blogspot.co.uk/)
+[Projects](#projects) | [Skills](#skills) |  [Education](#eduction) | [Work Experience](#experience) | [Interests](#interests) | [Blog](https://thep-log.blogspot.co.uk/)
 
 Hi there! I am currently student of Makers Academy and an ex online poker player who gave it all up to pursue an amazing career of a developer. I am looking for work as a Junior Developer.
 
 I'm interested in the creation and exploration of ideas. As a graduate of the London College of Communication in Interactive Design, I have always been interested in how people and technology interact within different environments.
 
 I absolutely love the process of learning. "Enjoy the Process Towards Mastery" is one of my life mottos, inspired from Daniel Pink's amazing book [Drive](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?ie=UTF8&qid=1501344243&sr=8-1&keywords=daniel+pink+drive). There I have learned to not be too attached to the results of success or failure to keep striving for self improvement.
+
+## PROJECTS
+Project | Description | Technologies | Blog Post
+------- | ----------- | ------------ | ------
+[God of Cookery Takeaway](https://github.com/pyan83/takeaway-challenge) | A Godlike takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby, RSpec, Twilio-Ruby | [Link](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
+[Dr PJ's Air Bnb](https://github.com/pyan83/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Link](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
+[Pokeball Run](https://github.com/pyan83/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
+[Bank](https://github.com/pyan83/bank-tech-test) | Coding focused on high quality practices | Ruby, RSpec, SimpleCov, Rubocop, Flog | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-ten-top-quality-code-innit.html)
+
 
 ## SKILLS
 
@@ -46,14 +55,6 @@ My [blog](https://thep-log.blogspot.co.uk/) has almost 90,000 views at the momen
 - Agile Values and Principles
 - Ruby, Rails, JavaScript
 - Rspec, Jasmine, Cabybara, Zombie JS, Mocha Chai
-
-## PROJECTS
-Project | Description | Technologies | Blog Post
-------- | ----------- | ------------ | ------
-[God of Cookery Takeaway](https://github.com/pyan83/takeaway-challenge) | A Godlike takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby, RSpec, Twilio-Ruby | [Link](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
-[Dr PJ's Air Bnb](https://github.com/pyan83/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Link](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
-[Pokeball Run](https://github.com/pyan83/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
-[Bank](https://github.com/pyan83/bank-tech-test) | Coding focused on high quality practices | Ruby, RSpec, SimpleCov, Rubocop, Flog | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-ten-top-quality-code-innit.html)
 
 **University of the Arts, London College of Communication (2004 to 2008)**
 BA Hons Graphic, Media and Design - Interactive Design
