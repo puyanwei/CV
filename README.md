@@ -11,7 +11,7 @@ I absolutely love the process of learning. "Enjoy the Process Towards Mastery" i
 ## PROJECTS
 Project | Description | Technologies | Blog Post
 ------- | ----------- | ------------ | ------
-[Quark Text Editor](https://github.com/puyanwei/quark-text-editor) | A text editor desktop app attempting to rival Atom, but ends up being a smaller version! A two week final project| Electron, Chromium, Node JS, HTML, CSS, Spectron | [Wee One](https://thep-log.blogspot.co.uk/2017/10/makers-week-eleven-final-project-lets.html), Week Two coming soon 
+[Quark Text Editor](https://github.com/puyanwei/quark-text-editor) | A text editor desktop app attempting to rival Atom, but ends up being a smaller version! A two week final project| Electron, Chromium, Node JS, HTML, CSS, Spectron | [Week One](https://thep-log.blogspot.co.uk/2017/10/makers-week-eleven-final-project-lets.html), Week Two coming soon 
 [Pokeball Run](https://github.com/puyanwei/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
 [God of Cookery Takeaway](https://github.com/puyanwei/takeaway-challenge) | A God-like takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby, RSpec, Twilio-Ruby | [Link](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
 [Dr PJ's Air Bnb](https://github.com/puyanwei/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Link](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
