@@ -40,7 +40,7 @@ I gave up online poker and decided to pursue the goal of learning to code. Withi
 
 ### Teamwork
 
-During Makers Academy I found working in a team as an invaluable experience. It was satisfying to have everyone all work towards a common goal and see it all come together in the end.
+During Makers Academy I found working in a team an invaluable experience. It was satisfying to have everyone all work towards a common goal and see it all come together in the end.
 
 It was great to practice Agile methodologies starting out with user stories and small goals. We used XP values, we communicated openly and equally using stand ups and retrospectives.
 
