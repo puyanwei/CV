@@ -66,16 +66,13 @@ It was great to practice Agile methodologies starting out with user stories and 
 
 ## WORK EXPERIENCE
 
-#### Professional Poker Player (2010 - 2016)
-###### Self-Employed Online Poker Professional
+#### Self-Employed Online Poker Professional (2010 - 2016)
 Poker is a decision making, skill based (person vs person) strategy game entailing equity analysis and mathematical calculations.
 
-#### Sit and Go Protege (2011 - 2013)
-###### Stable Manager Joint Venture
+#### Sit and Go Protege, Stable Manager Joint Venture (2011 - 2013)
 A coaching website in teaching poker for profit sharing. My duties included coaching, forum maintenance, uploading and editing vides, and accountancy.
 
-#### Tiffenbites (2008-2010)
-##### Bar Manager
+#### Tiffenbites, Bar Tender (2008-2010)
 After graduating I did bar work on the side whilst looking for internships in Graphic Design.
 
 ## INTERESTS
