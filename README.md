@@ -47,21 +47,17 @@ It was great to practice Agile methodologies starting out with user stories and 
 ## EDUCATION
 
 #### Makers Academy (July to October 2017)
-
 - Curiosity and Passion for Code
 - Independent Learner and Problem-Solver
 - Object Orientated Programming, TDD
 - Pair Programming
 - Agile and XP Value Principles
 
-#### University of the Arts, London College of Communication (2004 to 2008)
-###### BA Hons Graphic, Media and Design - Interactive Design
-
+#### University of the Arts, London College of Communication, BA Hons Graphic Media and Design - Interactive Design (2004 to 2008)
 - Started out in Advertising, moved to Interactive Design.
 - Exploration of environments its interactions. Smart design based on functionality rather then aesthetics.
 
-#### Bedford College (2002-2003)
-###### Art and Design Foundation Diploma  
+#### Bedford College, Art and Design Foundation Diploma (2002-2003)
 
 
 ## WORK EXPERIENCE
