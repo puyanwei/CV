@@ -53,7 +53,7 @@ It was great to practice Agile methodologies starting out with user stories and 
 - Pair Programming
 - Agile and XP Value Principles
 
-#### University of the Arts, London College of Communication, BA Hons Graphic Media and Design - Interactive Design (2004 to 2008)
+#### University of the Arts, London College of Communication - BA Hons Graphic Media and Design, Interactive Design (2004 to 2008)
 - Started out in Advertising, moved to Interactive Design.
 - Exploration of environments its interactions. Smart design based on functionality rather then aesthetics.
 
