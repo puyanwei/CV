@@ -15,8 +15,7 @@ Project | Description | Technologies | Blog Post
 [Pokeball Run](https://github.com/puyanwei/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
 [God of Cookery Takeaway](https://github.com/puyanwei/takeaway-challenge) | A God-like takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby, RSpec, Twilio-Ruby | [Link](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
 [Dr PJ's Air Bnb](https://github.com/puyanwei/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Link](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
-[Bank](https://github.com/puyanwei/bank-tech-test) | Coding focused on high quality practices simulating a banking system | Ruby, RSpec, SimpleCov, Rubocop, Flog | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-ten-top-quality-code-innit.html)
-
+[Tic Tac Toe](https://github.com/puyanwei/Tic-Tac-Toe) | Coding focused on high quality practices recreating the classic game Tic Tac Toe for the terminal | Ruby, RSpec, SimpleCov, Rubocop, Flog | [Blog post coming soon]
 
 ## SKILLS
 
