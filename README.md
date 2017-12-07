@@ -11,11 +11,11 @@ I absolutely love the process of learning. "Enjoy the Process Towards Mastery" i
 ## PROJECTS
 Project | Description | Technologies | Blog Post
 ------- | ----------- | ------------ | ------
-[Quark Text Editor](https://github.com/puyanwei/quark-text-editor) | A text editor desktop app attempting to rival Atom, but ends up being a smaller version! A two week final project| Electron, Chromium, Node JS, HTML, CSS, Spectron | [Part One](https://thep-log.blogspot.co.uk/2017/10/makers-week-eleven-final-project-lets.html), [Part Two](https://thep-log.blogspot.co.uk/2017/10/makers-week-twelve-final-project-we.html)
-[Pokeball Run!](https://github.com/puyanwei/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [Link](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
-[God of Cookery Takeaway](https://github.com/puyanwei/takeaway-challenge) | A God-like takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby, RSpec, Twilio-Ruby | [Link](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
-[Dr PJ's Air Bnb](https://github.com/puyanwei/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Link](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
-[Tic Tac Toe](https://github.com/puyanwei/Tic-Tac-Toe) | Coding focused on high quality practices recreating the classic game Tic Tac Toe for the terminal | Ruby, RSpec, SimpleCov, Rubocop, Flog | [Blog post coming soon]
+[Quark Text Editor](https://github.com/puyanwei/quark-text-editor) | A text editor desktop app attempting to rival Atom, but ends up being a smaller version! A two week final project| Electron, Chromium, Node JS, HTML, CSS, Spectron | [Week One](https://thep-log.blogspot.co.uk/2017/10/makers-week-eleven-final-project-lets.html), [Week Two](https://thep-log.blogspot.co.uk/2017/10/makers-week-twelve-final-project-we.html)
+[Pokeball Run!](https://github.com/puyanwei/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [We Built an iPhone Game](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
+[God of Cookery Takeaway](https://github.com/puyanwei/takeaway-challenge) | A God-like takeaway service inspired by a Stephen Chow [movie](https://en.wikipedia.org/wiki/The_God_of_Cookery). Your orders are confirmed by SMS! | Ruby, RSpec, Twilio-Ruby | [Godly SMS Ordering](https://thep-log.blogspot.co.uk/2017/08/makers-week-two-god-of-cookery-takeaway.html)
+[Dr PJ's Air Bnb](https://github.com/puyanwei/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Grouping Up For Makers](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
+[Tic Tac Toe](https://github.com/puyanwei/Tic-Tac-Toe) | Coding focused on high quality practices recreating the classic game Tic Tac Toe for the terminal | Ruby, RSpec, SimpleCov, Rubocop, Flog | [High Quality Coding Post](https://thep-log.blogspot.co.uk/2017/10/makers-week-ten-top-quality-code-innit.html)
 
 ## SKILLS
 
@@ -27,9 +27,9 @@ A project I worked on in University was to debunk the idea that advertising has 
 
 ### Commitment
 
-My [blog](https://thep-log.blogspot.co.uk/) has almost 90,000 views, with over 130 posts at the moment and I recently transitioned it from talking about poker to coding.
+I love to [blog](https://thep-log.blogspot.co.uk/) regularly and mine has almost 90,000 views, with over 130 posts at the moment and I recently transitioned it from talking about poker to coding.
 
-My aim is to have the blog be accessible to all by being more thoughtful about being too advanced with the terminology and topics. At Makers I wrote a post every week without fail.
+I am very committed to learning, I code every day. During and after Makers I have been coming to London from Milton Keynes everyday without fail. I am driven to keep improving and aim to continuously create new applications embracing the unknown of new technologies.
 
 ### Initiative
 
