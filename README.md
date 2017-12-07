@@ -49,6 +49,7 @@ It was great to practice Agile methodologies starting out with user stories and 
 - Curiosity and Passion for Code
 - Independent Learner and Problem-Solver
 - Object Orientated Programming, TDD
+- Regular Git Commits and Good Descriptions
 - Pair Programming
 - Agile and XP Value Principles
 
