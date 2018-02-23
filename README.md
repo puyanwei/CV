@@ -24,7 +24,7 @@ Project | Description | Technologies | Blog Post
 [Tic Tac Toe](https://github.com/puyanwei/Tic-Tac-Toe) | Coding focused on high quality practices recreating the classic game Tic Tac Toe for the terminal | Ruby, RSpec, SimpleCov, Rubocop, Flog | [High Quality Coding Post](https://thep-log.blogspot.co.uk/2017/10/makers-week-ten-top-quality-code-innit.html)
 [Notes Web App](https://github.com/puyanwei/Notes-App-SPA) | A Single Page App created only using vanilla Javascript only | Javascript, HTML, DOM, CSS, Espresso (See below) | [Single Page App Notes](https://thep-log.blogspot.co.uk/2018/01/single-page-app-write-note.html)
 [Espresso](https://github.com/puyanwei/espresso) | Custom built testing framework built with vanilla javascript. Inspired by Mocha.js | Javascript, HTML, CSS |
-Punching Bag | Interactive game inspired by the 60's Batman series practicing learning how to use Vue.js | Javascript, HTML, CSS, Vue.js | [A Vue to a View](https://thep-log.blogspot.co.uk/2018/02/a-vue-to-view-punchbag-game.html)
+[Punching Bag](https://github.com/puyanwei/punching-bag) | Interactive game inspired by the 60's Batman series practicing learning how to use Vue.js | Javascript, HTML, CSS, Vue.js | [A Vue to a View](https://thep-log.blogspot.co.uk/2018/02/a-vue-to-view-punchbag-game.html)
 
 
 ## SKILLS
