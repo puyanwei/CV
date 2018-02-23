@@ -8,15 +8,24 @@ I'm interested in the creation and exploration of ideas. As a graduate of the Lo
 
 I absolutely love the process of learning. "Enjoy the Process Towards Mastery" is one of my life mottos, inspired from Daniel Pink's amazing book [Drive](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/ref=sr_1_1?ie=UTF8&qid=1501344243&sr=8-1&keywords=daniel+pink+drive). There I have learned to not be too attached to the results of success or failure to keep striving for self improvement.
 
-## PROJECTS
+## MAKERS ACADEMY PROJECTS
+
 Project | Description | Technologies | Blog Post
 ------- | ----------- | ------------ | ------
-[Quark Text Editor](https://github.com/puyanwei/quark-text-editor) | A text editor desktop app attempting to rival Atom, but ends up being a smaller version! A two week final project| Electron, Chromium, Node JS, HTML, CSS, Spectron | [Week One](https://thep-log.blogspot.co.uk/2017/10/makers-week-eleven-final-project-lets.html), [Week Two](https://thep-log.blogspot.co.uk/2017/10/makers-week-twelve-final-project-we.html)
+[Quark Text Editor](https://github.com/puyanwei/quark-text-editor) | Code Editor desktop app attempting to rival Atom, but ends up being a smaller version! A two week final project| Electron, Chromium, Node JS, HTML, CSS, Spectron | [Week One](https://thep-log.blogspot.co.uk/2017/10/makers-week-eleven-final-project-lets.html), [Week Two](https://thep-log.blogspot.co.uk/2017/10/makers-week-twelve-final-project-we.html)
 [Pokeball Run!](https://github.com/puyanwei/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [We Built an iPhone Game](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
-[Notes Web App](https://github.com/puyanwei/Notes-App-SPA) | A Single Page App created only using vanilla Javascript only | Javascript, HTML, DOM, CSS, Espresso (See below) | [Single Page App Notes](https://thep-log.blogspot.co.uk/2018/01/single-page-app-write-note.html)
 [Dr PJ's Air Bnb](https://github.com/puyanwei/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Grouping Up For Makers](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
+
+
+## POST MAKERS PROJECTS
+
+Project | Description | Technologies | Blog Post
+------- | ----------- | ------------ | ------
 [Tic Tac Toe](https://github.com/puyanwei/Tic-Tac-Toe) | Coding focused on high quality practices recreating the classic game Tic Tac Toe for the terminal | Ruby, RSpec, SimpleCov, Rubocop, Flog | [High Quality Coding Post](https://thep-log.blogspot.co.uk/2017/10/makers-week-ten-top-quality-code-innit.html)
+[Notes Web App](https://github.com/puyanwei/Notes-App-SPA) | A Single Page App created only using vanilla Javascript only | Javascript, HTML, DOM, CSS, Espresso (See below) | [Single Page App Notes](https://thep-log.blogspot.co.uk/2018/01/single-page-app-write-note.html)
 [Espresso](https://github.com/puyanwei/espresso) | Custom built testing framework built with vanilla javascript. Inspired by Mocha.js | Javascript, HTML, CSS |
+Punching Bag | Interactive game inspired by the 60's Batman series practicing learning how to use Vue.js | Javascript, HTML, CSS, Vue.js | [A Vue to a View](https://thep-log.blogspot.co.uk/2018/02/a-vue-to-view-punchbag-game.html)
+
 
 ## SKILLS
 
