@@ -17,7 +17,7 @@ Project | Description | Technologies | Blog Post
 [Dr PJ's Air Bnb](https://github.com/puyanwei/DrPJsMakersBnB) | An Air Bnb website clone | Javascript, Mongo DB, Node JS, Express, Mocha Chai and Zombie JS | [Grouping Up For Makers](https://thep-log.blogspot.co.uk/2017/09/makers-week-six-grouping-up-for-makers.html)
 
 
-## POST MAKERS PROJECTS
+## SELF INITIATED PROJECTS
 
 Project | Description | Technologies | Blog Post
 ------- | ----------- | ------------ | ------
@@ -69,6 +69,24 @@ I’m a great team player, and love collaboration. I loved the group projects at
 
 
 ## WORK EXPERIENCE
+
+#### Mettrr, Front End Developer (March 2018 - June 2018)
+
+Worked collaboratively to create a responsive rebrand of the Mettrr website using Vue.JS.
+
+- Creating pages based on the graphic designer's specifications.
+
+- Picking up tickets to fix functional and visual bugs.
+
+- Good git and github processes, using branches and regular commits with good descriptions.
+
+- Good communication with my team via daily stand ups and retrospectives at the end of sprints.
+
+- Coded using Vue.js with Vuex implementation. Adhered to a strict Air bnb style linting and SCSS format using CSS Grid layout.
+
+- Using ES6 Javascript to create and debug logic within the webpack application.
+
+
 
 #### Self-Employed Online Poker Professional (2010 - 2016)
 Poker is a decision making, skill based (person vs person) strategy game entailing equity analysis and mathematical calculations.
