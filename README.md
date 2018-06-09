@@ -37,9 +37,9 @@ A project I worked on in University was to debunk the idea that advertising has 
 
 ### Commitment
 
-I love to [blog](https://thep-log.blogspot.co.uk/) regularly and mine has almost 90,000 views, with over 130 posts at the moment and I recently transitioned it from talking about poker to coding.
+I love to [blog](https://thep-log.blogspot.co.uk/) regularly and mine has 90,000+ views, with over 130 posts at the moment and I recently transitioned it from talking about poker to coding.
 
-I am very committed to learning, I code every day. During and after Makers I have been coming to London from Milton Keynes everyday without fail. I am driven to keep improving and aim to continuously create new applications embracing the unknown of new technologies.
+I am very driven to learning, I code almost every day. During and after Makers I have been commuting to London from Milton Keynes. I am committed improving and continuously creating new applications to embrace the unknown of new technologies.
 
 ### Initiative
 
