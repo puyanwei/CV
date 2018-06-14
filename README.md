@@ -30,6 +30,34 @@ Project | Description | Technologies | Blog Post
 [2048](https://github.com/puyanwei/2048) | Practicing TDD recreating the classic mobile game in the web browser | Javascript, HTML, CSS, Jasmine | [Link to Game](https://puyanwei.github.io/2048/)
 
 
+## WORK EXPERIENCE
+
+#### Mettrr, Front End Developer (March 2018 - June 2018)
+
+Worked collaboratively to create a responsive rebrand of the Mettrr website using Vue.JS.
+
+- Creating pages based on the graphic designer's specifications.
+
+- Picking up tickets to fix functional and visual bugs.
+
+- Good git and github processes, using branches and regular commits with good descriptions.
+
+- Good communication with my team via daily stand ups and retrospectives at the end of sprints.
+
+- Coded using Vue.js with Vuex implementation. Adhered to a strict Air bnb style linting and SCSS format using CSS Grid layout.
+
+- Using ES6 Javascript to create and debug logic within the webpack application.
+
+
+
+#### Self-Employed Online Poker Professional (2010 - 2016)
+Poker is a decision making, skill based (person vs person) strategy game entailing equity analysis and mathematical calculations.
+
+#### Sit and Go Protege, Stable Manager Joint Venture (2011 - 2013)
+A coaching website in teaching poker for profit sharing. My duties included coaching, forum maintenance, uploading and editing vides, and accountancy.
+
+#### Tiffenbites, Bar Tender (2008-2010)
+After graduating I did bar work on the side whilst looking for internships in Graphic Design.
 ## SKILLS
 
 ### Commitment
@@ -78,34 +106,6 @@ A project I worked on in University was to debunk the idea that advertising has 
 #### Bedford College, Art and Design Foundation Diploma (2002-2003)
 
 
-## WORK EXPERIENCE
-
-#### Mettrr, Front End Developer (March 2018 - June 2018)
-
-Worked collaboratively to create a responsive rebrand of the Mettrr website using Vue.JS.
-
-- Creating pages based on the graphic designer's specifications.
-
-- Picking up tickets to fix functional and visual bugs.
-
-- Good git and github processes, using branches and regular commits with good descriptions.
-
-- Good communication with my team via daily stand ups and retrospectives at the end of sprints.
-
-- Coded using Vue.js with Vuex implementation. Adhered to a strict Air bnb style linting and SCSS format using CSS Grid layout.
-
-- Using ES6 Javascript to create and debug logic within the webpack application.
-
-
-
-#### Self-Employed Online Poker Professional (2010 - 2016)
-Poker is a decision making, skill based (person vs person) strategy game entailing equity analysis and mathematical calculations.
-
-#### Sit and Go Protege, Stable Manager Joint Venture (2011 - 2013)
-A coaching website in teaching poker for profit sharing. My duties included coaching, forum maintenance, uploading and editing vides, and accountancy.
-
-#### Tiffenbites, Bar Tender (2008-2010)
-After graduating I did bar work on the side whilst looking for internships in Graphic Design.
 
 ## INTERESTS
 - [Blogging](https://thep-log.blogspot.co.uk/) about my travels, ideas and interests.
