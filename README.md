@@ -12,7 +12,7 @@ I'm interested in the creation and exploration of ideas. As a graduate of the Lo
 
 ## MAKERS ACADEMY PROJECTS
 
-Project | Description | Technologies | Blog Post
+Project | Description | Technologies | Blog Post / Links
 ------- | ----------- | ------------ | ------
 [Quark Text Editor](https://github.com/puyanwei/quark-text-editor) | Code Editor desktop app attempting to rival Atom, but ends up being a smaller version! A two week final project| Electron, Chromium, Node JS, HTML, CSS, Spectron | [Week One](https://thep-log.blogspot.co.uk/2017/10/makers-week-eleven-final-project-lets.html), [Week Two](https://thep-log.blogspot.co.uk/2017/10/makers-week-twelve-final-project-we.html)
 [Pokeball Run!](https://github.com/puyanwei/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch| XCode 9, Swift 4, and XCTest | [We Built an iPhone Game](https://thep-log.blogspot.co.uk/2017/10/makers-week-nine-we-built-iphone-game.html)
@@ -24,10 +24,11 @@ Project | Description | Technologies | Blog Post
 
 Project | Description | Technologies | Blog Post
 ------- | ----------- | ------------ | ------
-[Notes Web App](https://github.com/puyanwei/Notes-App-SPA) | A Single Page App created only using vanilla Javascript only | Javascript, HTML, DOM, CSS, Espresso (See below) | [Single Page App Notes](https://thep-log.blogspot.co.uk/2018/01/single-page-app-write-note.html)
+[Notes Web App](https://github.com/puyanwei/Notes-App-SPA) | A Single Page App created only using vanilla Javascript only built with a MVC structure | Javascript, HTML, DOM, CSS, Espresso (See below) | [Single Page App Notes](https://thep-log.blogspot.co.uk/2018/01/single-page-app-write-note.html)
 [Espresso](https://github.com/puyanwei/espresso) | Custom built testing framework built with vanilla javascript. Inspired by Mocha.js | Javascript, HTML, CSS |
 [Punching Bag](https://github.com/puyanwei/punching-bag) | Interactive game inspired by the 60's Batman series practicing learning how to use Vue.js | Javascript, HTML, CSS, Vue.js, Heroku | [A Vue to a View](https://thep-log.blogspot.co.uk/2018/02/a-vue-to-view-punchbag-game.html)
 [2048](https://github.com/puyanwei/2048) | Practicing TDD recreating the classic mobile game in the web browser | Javascript, HTML, CSS, Jasmine | [Link to Game](https://puyanwei.github.io/2048/)
+[Bookmark Manger](https://github.com/puyanwei/react-bookmark-manager) | Learning React by creating a webpage that holds all your favourite websites | Javascript, HTML, CSS, React.js, Heroku | [Link to Bookmark Manager Website](https://react-bookmark-manager.herokuapp.com/)
 
 
 ## WORK EXPERIENCE
