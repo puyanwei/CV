@@ -28,7 +28,7 @@ Project | Description | Technologies | Blog Post
 [Espresso](https://github.com/puyanwei/espresso) | Custom built testing framework built with vanilla javascript. Inspired by Mocha.js | Javascript, HTML, CSS |
 [Punching Bag](https://github.com/puyanwei/punching-bag) | Interactive game inspired by the 60's Batman series practicing learning how to use Vue.js | Javascript, HTML, CSS, Vue.js, Heroku | [A Vue to a View](https://thep-log.blogspot.co.uk/2018/02/a-vue-to-view-punchbag-game.html)
 [2048](https://github.com/puyanwei/2048) | Practicing TDD recreating the classic mobile game in the web browser | Javascript, HTML, CSS, Jasmine | [Link to Game](https://puyanwei.github.io/2048/)
-[Bookmark Manger](https://github.com/puyanwei/react-bookmark-manager) | Learning React by creating a webpage that holds all your favourite websites | Javascript, HTML, CSS, React.js, Heroku | [Link to Bookmark Manager Website](https://react-bookmark-manager.herokuapp.com/)
+[Bookmark Manager](https://github.com/puyanwei/react-bookmark-manager) | Learning React by creating a webpage that holds all your favourite websites | Javascript, HTML, CSS, React.js, Heroku | [Link to Bookmark Manager Website](https://react-bookmark-manager.herokuapp.com/)
 
 
 ## WORK EXPERIENCE
