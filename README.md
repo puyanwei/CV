@@ -1,6 +1,6 @@
 # Puyan Wei
 
-[Projects](#projects) | [Skills](#skills) |  [Education](#eduction) | [Work Experience](#experience) | [Interests](#interests) | [Blog](https://thep-log.blogspot.co.uk/)
+[Projects](#projects) | [Skills](#skills) |  [Education](#eduction) | [Work Experience](#experience) | [Hobbies](#hobbies) | [Blog](https://thep-log.blogspot.co.uk/)
 
 Hi there! I am a graduate of Makers Academy and an ex online poker player who gave it all up to pursue an amazing career of a developer. I am looking for work as a Front End Developer.
 
@@ -10,7 +10,7 @@ I'm interested in the creation and exploration of ideas. As a graduate of the Lo
 
 
 
-## MAKERS ACADEMY PROJECTS
+## [Makers Academy](https://www.makersacademy.com/) Boot Camp Projects
 
 Project | Description | Technologies | Blog Post / Links
 ------- | ----------- | ------------ | ------
@@ -20,7 +20,7 @@ Project | Description | Technologies | Blog Post / Links
 [Tic Tac Toe](https://github.com/puyanwei/Tic-Tac-Toe) | Coding focused on high quality practices recreating the classic game Tic Tac Toe for the terminal | Ruby, RSpec, SimpleCov, Rubocop, Flog | [High Quality Coding Post](https://thep-log.blogspot.co.uk/2017/10/makers-week-ten-top-quality-code-innit.html)
 
 
-## SELF INITIATED PROJECTS
+## Self Initiated Projects
 
 Project | Description | Technologies | Blog Post
 ------- | ----------- | ------------ | ------
@@ -31,7 +31,7 @@ Project | Description | Technologies | Blog Post
 [Bookmark Manager](https://github.com/puyanwei/react-bookmark-manager) | Learning React by creating a webpage that holds all your favourite websites | Javascript, HTML, CSS, React.js, Heroku | [Link to Bookmark Manager Website](https://react-bookmark-manager.herokuapp.com/)
 
 
-## WORK EXPERIENCE
+## Work Experience
 
 #### Mettrr, Front End Developer (March 2018 - June 2018)
 
@@ -59,7 +59,8 @@ A coaching website in teaching poker for profit sharing. My duties included coac
 
 #### Tiffenbites, Bar Tender (2008-2010)
 After graduating I did bar work on the side whilst looking for internships in Graphic Design.
-## SKILLS
+
+## Skills
 
 ### Commitment
 
@@ -84,7 +85,7 @@ I pride myself on being a creative person. Many of my ideas for projects at Make
 A project I worked on in University was to debunk the idea that advertising has to spammy in order to be successful. We left branded items around south London and organised [stunts](https://www.youtube.com/watch?v=Ry-25_HDpWs) with a link to our campaign.
 
 
-## EDUCATION
+## Education
 
 #### Makers Academy (July to October 2017)
 - Curiosity and Passion for Code
@@ -108,7 +109,7 @@ A project I worked on in University was to debunk the idea that advertising has 
 
 
 
-## INTERESTS
+## Hobbies
 - [Blogging](https://thep-log.blogspot.co.uk/) about my travels, ideas and interests.
 
 - Self initiated coding projects.
