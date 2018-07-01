@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) |  [Education](#eduction) | [Work Experience](#experience) | [Hobbies](#hobbies) | [Blog](https://thep-log.blogspot.co.uk/)
 
-Hi there! I am a graduate of Makers Academy and an ex online poker player who gave it all up to pursue an amazing career of a developer. I am looking for work as a Front End Developer.
+Hi there! I am a graduate of Makers Academy and an ex online poker player who gave it all up to pursue an amazing career in software development. I am looking for work as a Front End Web Developer.
 
 I have already have work experience developing the rebrand website design of a start up. We used technologies in Vue.js, Webpack, ES6 Javascript and SASS whilst working in a team in an agile fashion.
 
