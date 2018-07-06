@@ -14,7 +14,7 @@ I'm interested in the creation and exploration of ideas. As a graduate of the Lo
 
 Worked collaboratively to create a responsive rebrand of the Mettrr website using Vue.JS.
 
--   Creating pages based on the graphic designer's specifications.
+-   Creating pages based on the graphic designer's specifications. Start with mobile screen design size first, then move up implementing tablet and desktop designs.
 
 -   Picking up tickets to fix functional and visual bugs.
 
