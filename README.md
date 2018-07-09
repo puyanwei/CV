@@ -4,7 +4,7 @@
 
 Hi there! I am a graduate of Makers Academy Coding Boot Camp, an ex online poker player and a Hackernoon [tech blogger](https://hackernoon.com/front-end-refactored-components-with-vue-907a08a3630?source=user_profile---------2-------------------) continuing my career in software development. I am currently looking for work as a Front End Web Developer.
 
-I have already have work experience developing the rebrand website design of a start up. We used technologies in Vue.js, Webpack, ES6 Javascript and SASS whilst working in a team in an agile fashion.
+I already have work experience developing the rebrand website design of a start up. We used technologies in Vue.js, Webpack, ES6 Javascript and SASS whilst working in a team in an agile fashion.
 
 I'm interested in the creation and exploration of ideas. As a graduate of the London College of Communication in Interactive Design, I have always been interested in how people and technology interact within different environments.
 
