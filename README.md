@@ -32,7 +32,7 @@ Poker is a decision making, skill based (person vs person) strategy game entaili
 
 #### Sit and Go Protege, Stable Manager Joint Venture (2011 - 2013)
 
-A coaching website in teaching poker for profit sharing. My duties included coaching, forum maintenance, uploading and editing vides, and accountancy.
+A coaching website in teaching poker for profit sharing. My duties included coaching, forum maintenance, uploading and editing training videos, and accountancy.
 
 ## [Makers Academy](https://www.makersacademy.com/) Boot Camp Projects
 
@@ -59,17 +59,17 @@ A coaching website in teaching poker for profit sharing. My duties included coac
 
 I love to [blog](https://thep-log.blogspot.co.uk/) regularly and mine has 90,000+ views, with over 130 posts at the moment and I recently transitioned it from talking about poker to coding.
 
-I am very driven to learning, I code almost every day with side projects. During and after Makers I had been commuting to London from Milton Keynes. I am committed improving and continuously creating new applications to embrace the unknown of new technologies.
+I am very driven to learning, I code almost every day with [side projects](https://github.com/puyanwei). During and after Makers I had been commuting to London from Milton Keynes. I am committed improving and continuously creating new applications to embrace the unknown of new technologies.
 
 ### Teamwork
 
-I’m a great team player, and love collaboration. I loved the collaborative nature of working in a team, using stand ups, and retrospective at the end of our sprints for continuous communication. We made sure we added small commits to the website in an agile fashion. We went through our ups and downs together, as a team.
+I’m a great team player, and love collaboration. I love working in a team, using stand ups, and retrospectives at the end of our sprints. We made sure we added small commits to the website in an agile fashion. We went through our ups and downs together, as a team.
 
 ### Initiative
 
 I managed to teach and sustain myself running my own business in online poker. Soon I was able to develop a website where we would teach clients our knowledge in return for sharing profits.
 
-I gave up online poker and decided to pursue the goal of learning to code. Within 4 months I had learned Java, Javascript, completed some courses on udacity and freecodecamp, and built some basic games.
+I gave up online poker and decided to pursue the goal of learning to code. Within 4 months I had learned some Java, Javascript, completed some courses on udacity and freecodecamp, and built some basic games.
 
 ### Creativity
 
