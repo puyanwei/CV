@@ -2,17 +2,41 @@
 
 [Work Experience](#experience) | [Projects](#projects) | [Skills](#skills) | [Education](#eduction) | [Hobbies](#hobbies) | [Blog](https://thep-log.blogspot.co.uk/)
 
-Hi there! I am a graduate of Makers Academy Coding Boot Camp, an ex online poker player and a Hackernoon [tech blogger](https://hackernoon.com/front-end-refactored-components-with-vue-907a08a3630?source=user_profile---------2-------------------) continuing my career in software development. I am currently looking for work as a Front End Web Developer.
+Hi there! I am a graduate of Makers Academy Coding Boot Camp, an ex online poker player and a Hackernoon [tech blogger](https://medium.com/@pyan) continuing my career in software development.
 
-I already have work experience developing the rebrand website design of a start up. We used technologies in Vue.js, Webpack, ES6 Javascript and SASS whilst working in a team in an agile fashion.
+I love to delve into how things are made, and try out many technologies and see how far things can be pushed. Currently I am exploring the front end world, and enjoying its direction in reusable components and having more logic go in the client.
 
-I'm interested in the creation and exploration of ideas. As a graduate of the London College of Communication in Interactive Design, I have always been interested in how people and technology interact within different environments.
+## Developer Work Experience
 
-## Work Experience
+#### Mountain Warehouse, Web Developer (August 2018 to Present)
 
-#### Mettrr, Front End Developer (March 2018 - June 2018)
+Mountain Warehouse is UK's largest outdoor retail store. With over 300 stores world wide its online store is one of the most important parts of its ever expanding business. I am their Web Developer working on the Mountain Warehouse and other branc Neon Sheep websites.
 
-Worked collaboratively to create a responsive rebrand of the Mettrr website using Vue.JS.
+-   Preparing pages for VWO to toggle the A/B tests on and off.
+
+-   Using React Hooks, functional programming and useContext/useReducer state management.
+
+-   Testing using React-Testing-Library and Jest.
+
+-   Building emails with MJML.
+
+-   Using git and agile processes, pull requests, and code reviewing other colleagues' work.
+
+-   Working with the UX designer to create new pages responsively that the business wants. Use of CSS styling with SASS.
+
+-   Fixing functional and visual bugs.
+
+-   Built campaign outside codebase, worked with backend to prepare trial of using Docker containers. Pages had landing page and form with data collection.
+
+-   Editing templates for web team to be able to add their own content into using JQuery and Razor.
+
+-   Stand ups, kanban, and retrospectives to review our projects.
+
+
+#### Mettrr, Front End Developer (March 2018 to June 2018)
+
+Mettrr is a "Do-It-For-You" website creation service for non technical people.
+As a developer I worked collaboratively to create a rebrand of the Mettrr website as it scaled up from being a small start up.
 
 -   Creating pages based on the graphic designer's specifications. Start with mobile screen design size first, then move up implementing tablet and desktop designs.
 
@@ -57,13 +81,13 @@ A coaching website in teaching poker for profit sharing. My duties included coac
 
 ### Commitment
 
-I love to [blog](https://thep-log.blogspot.co.uk/) regularly and mine has 90,000+ views, with over 130 posts at the moment and I recently transitioned it from talking about poker to coding.
+I love to [blog](https://medium.com/@pyan) regularly and one of my [blog posts](https://medium.com/hackernoon/reacting-to-react-js-10ff1d50a36c) on React has over 10k views. 
 
-I am very driven to learning, I code almost every day with [side projects](https://github.com/puyanwei). During and after Makers I had been commuting to London from Milton Keynes. I am committed improving and continuously creating new applications to embrace the unknown of new technologies.
+I am very driven to learning, I love doing [side projects](https://github.com/puyanwei). I am committed improving and continuously creating new applications to embrace the unknown of new technologies.
 
 ### Teamwork
 
-I’m a great team player, and love collaboration. I love working in a team, using stand ups, and retrospectives at the end of our sprints. We made sure we added small commits to the website in an agile fashion. We went through our ups and downs together, as a team.
+I’m a great team player, and love collaboration. I love working in a team, using stand ups, and retrospectives at the end of our sprints. I'm happy to review each other's work and improve. I love teaching coding and helping others. I have a great team mindset and want to experience the highs and lows together.
 
 ### Initiative
 
@@ -71,11 +95,6 @@ I managed to teach and sustain myself running my own business in online poker. S
 
 I gave up online poker and decided to pursue the goal of learning to code. Within 4 months I had learned some Java, Javascript, completed some courses on udacity and freecodecamp, and built some basic games.
 
-### Creativity
-
-I pride myself on being a creative person. Many of my ideas for projects at Makers ended up making the final cut, including the final project, which was to build a desktop app from scratch.
-
-A project I worked on in University was to debunk the idea that advertising has to spammy in order to be successful. We left branded items around south London and organised [stunts](https://www.youtube.com/watch?v=Ry-25_HDpWs) with a link to our campaign.
 
 ## Education
 
