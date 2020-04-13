@@ -8,7 +8,7 @@ I love to delve into how things are made, and try out many technologies and see 
 
 ## Work Experience
 
-#### Trade Ledger, Frontend Developer (December 2019 to present)
+### Trade Ledger, Frontend Developer (December 2019 to present)
 
 Trade Ledger create products in the finance sector to support many secured lending categories including Invoice Finance, Commercial Loans (RCF), Equipment Finance, Asset-Based Lending (ABL), Supply Chain Financing & Factoring.
 
@@ -22,7 +22,7 @@ The frontend team builds the products to spec, updates the Design System, adds n
 - End to End Testing using Cypress.js (with Typescript)
 - Code reviews and goals setting, collaberating with team
 
-#### Mountain Warehouse, Frontend Developer (August 2018 to December 2019)
+### Mountain Warehouse, Frontend Developer (August 2018 to December 2019)
 
 Mountain Warehouse is UK's largest outdoor retail store. With over 300 stores world wide its online store is one of the most important parts of its ever expanding business. I am was their frontend developer working on Mountain Warehouse and other brand Neon Sheep websites.
 
@@ -35,7 +35,7 @@ Mountain Warehouse is UK's largest outdoor retail store. With over 300 stores wo
 - Editing templates for web team to be able to add their own content into using JQuery and Razor.
 - Stand ups, kanban, and retrospectives to review our projects.
 
-#### Mettrr, Frontend Developer (March 2018 to June 2018)
+### Mettrr, Frontend Developer (March 2018 to June 2018)
 
 Mettrr is a "Do-It-For-You" website creation service for non technical people.
 As a developer I worked collaboratively to create a rebrand of the Mettrr website as it scaled up from being a small start up.
@@ -48,11 +48,11 @@ As a developer I worked collaboratively to create a rebrand of the Mettrr websit
 
 - Using ES6 Javascript to create and debug logic within the webpack application.
 
-#### Self-Employed Online Poker Professional (2010 - 2016)
+### Self-Employed Online Poker Professional (2010 - 2016)
 
 Poker is a decision making, skill based (person vs person) strategy game entailing equity analysis and mathematical calculations.
 
-#### Sit and Go Protege, Stable Manager Joint Venture (2011 - 2013)
+### Sit and Go Protege, Stable Manager Joint Venture (2011 - 2013)
 
 A coaching website in teaching poker for profit sharing. My duties included coaching, forum maintenance, uploading and editing training videos, and accountancy.
 
@@ -95,34 +95,26 @@ I gave up online poker and decided to pursue the goal of learning to code. Withi
 
 ## Education
 
-#### Makers Academy (July to October 2017)
+### Makers Academy (July to October 2017)
 
 - Curiosity and Passion for Code
-
 - Independent Learner and Problem-Solver
-
 - Object Orientated Programming, TDD
-
 - Regular Git Commits and Good Descriptions
-
 - Pair Programming
-
 - Agile and XP Value Principles
 
-#### University of the Arts, London College of Communication - BA Hons Graphic Media and Design, Interactive Design (2004 to 2008)
+### University of the Arts, London College of Communication - BA Hons Graphic Media and Design, Interactive Design (2004 to 2008)
 
 - Started out in Advertising, moved to Interactive Design.
-
 - Exploration of environments its interactions. Smart design based on functionality rather then aesthetics.
 
-#### Bedford College, Art and Design Foundation Diploma (2002-2003)
+### Bedford College, Art and Design Foundation Diploma (2002-2003)
 
 ## Hobbies
 
-- [Blogging](https://thep-log.blogspot.co.uk/) about my travels, ideas and interests.
+- [Blogging](https://medium.com/@pyan) about my travels, ideas and interests.
 
 - Self initiated coding projects.
-
 - I love comedy, going to gigs and literally having a laugh!
-
 - A passion for cooking and eating great food!
