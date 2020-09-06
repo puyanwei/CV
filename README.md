@@ -8,7 +8,7 @@ I love to delve into how things are made, and try out many technologies and see 
 
 ## Work Experience
 
-### Trade Ledger, Frontend Developer (December 2019 to August 2019)
+### Trade Ledger, Frontend Developer (December 2019 to August 2020)
 
 Trade Ledger create products in the finance sector to support many secured lending categories including Invoice Finance, Commercial Loans (RCF), Equipment Finance, Asset-Based Lending (ABL), Supply Chain Financing & Factoring.
 
