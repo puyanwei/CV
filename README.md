@@ -14,9 +14,8 @@ Trade Ledger create products in the finance sector to support many secured lendi
 
 The frontend team builds the products to spec, updates the Design System, adds new features and fixes bugs.
 
-- Using React hooks with Typescript
-- Setting up GraphQL schemas and implementing them into the project
-- Using RX.js to control streamlined data flow
+- Add features to the product using React with Typescript, with Styled components and the design system.
+- Configure GraphQL inside React hooks to link the backend data to the front end.
 - Agile processes, stand ups and retrospectives. Aligning goals and open communication with the Sydney team.
 - Working with the UX team to contribute to the maintainance and updating of our Design System.
 - End to End Testing using Cypress.js (with Typescript)
@@ -118,3 +117,4 @@ I gave up online poker and decided to pursue the goal of learning to code. Withi
 - Self initiated coding projects.
 - I love comedy, going to gigs and literally having a laugh!
 - A passion for cooking and eating great food!
+- I enjoy playing tennis, snooker and poker.
